@@ -79,8 +79,8 @@ To use the project:
 
 ## Project Structure
 
-Decision-tree/
-│
+Decision-tree/<br>
+│<br>
 ├── app.py # Streamlit app for interaction
 ├── data/
 │ ├── dataset.csv # Raw dataset
