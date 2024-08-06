@@ -97,3 +97,25 @@ Decision-tree/<br>
 ├── requirements.txt # List of dependencies<br>
 ├── LICENSE # License file<br>
 └── README.md # Project README<br>
+
+
+## Contributing
+
+Contributions are welcome! Here's how you can contribute:
+
+1. **Fork the repository**.
+2. **Create a new branch** for your feature or bug fix:
+   ```bash
+   git checkout -b feature/your-feature-name
+    ```
+3. **Commit your changes**
+   ```bash
+   git commit -m 'Add a new feature'
+    ```
+4. **Push to the branch**
+   ```bash
+   git push origin feature/your-feature-name
+    ```
+5. **Create a pull request**
+
+   
