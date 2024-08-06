@@ -81,19 +81,19 @@ To use the project:
 
 Decision-tree/<br>
 │<br>
-├── app.py # Streamlit app for interaction
-├── data/
-│ ├── dataset.csv # Raw dataset
-│ └── processed_data.csv # Processed dataset
-│
-├── notebooks/
-│ └── decision_tree.ipynb # Main notebook
-│
-├── src/
-│ ├── data_preprocessing.py # Data preprocessing scripts
-│ ├── model.py # Model training and evaluation scripts
-│ └── visualization.py # Visualization utilities
-│
-├── requirements.txt # List of dependencies
-├── LICENSE # License file
-└── README.md # Project README
+├── app.py # Streamlit app for interaction<br>
+├── data/<br>
+│ ├── dataset.csv # Raw dataset<br>
+│ └── processed_data.csv # Processed dataset<br>
+│<br>
+├── notebooks/<br>
+│ └── decision_tree.ipynb # Main notebook<br>
+│<br>
+├── src/<br>
+│ ├── data_preprocessing.py # Data preprocessing scripts<br>
+│ ├── model.py # Model training and evaluation scripts<br>
+│ └── visualization.py # Visualization utilities<br>
+│<br>
+├── requirements.txt # List of dependencies<br>
+├── LICENSE # License file<br>
+└── README.md # Project README<br>
