@@ -118,4 +118,19 @@ Contributions are welcome! Here's how you can contribute:
     ```
 5. **Create a pull request**
 
-   
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+## Contact
+
+Tadano13 - [GitHub Profile](https://github.com/tadano13)
+
+Project Link: [https://github.com/tadano13/Employee-Attration-Rate](https://github.com/tadano13/Employee-Attration-Rate)
+
+
+### Additions:
+
+- **Interactive Streamlit App**: This is the link to streamlit interactive application click on it to test the model.
+- **Link**: decision-tree-yiuahwnnkv58vwgnyckwpi.streamlit.app
+
